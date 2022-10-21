@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\b72c3f711faa321f0cd2fb6b3aea20f4\curl-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\b72c3f711faa321f0cd2fb6b3aea20f4\curl-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\b72c3f711faa321f0cd2fb6b3aea20f4\curl-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\b72c3f711faa321f0cd2fb6b3aea20f4\curl-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\b72c3f711faa321f0cd2fb6b3aea20f4\curl-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\b72c3f711faa321f0cd2fb6b3aea20f4\curl-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\b72c3f711faa321f0cd2fb6b3aea20f4\curl-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\b72c3f711faa321f0cd2fb6b3aea20f4\curl-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\e4e27b4bcfcdad0a23cbe62719c7fc69\curl-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\484f47e6f8cb6d2533323ea75f549486\curl-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\_deps\curl-subbuild\CMakeFiles\curl-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C720370A-C9A8-331A-B7A1-623B424E3B2C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

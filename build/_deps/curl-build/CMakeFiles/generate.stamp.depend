@@ -1,0 +1,47 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.24/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckCCompilerFlag.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckCSourceRuns.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckIncludeFiles.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckStructHasMember.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindCygwin.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindMsys.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindPerl.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.24/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/CMakeFiles/3.24.0-rc2/CMakeCCompiler.cmake
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/CMake/CurlSymbolHiding.cmake
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/CMake/FindLibSSH2.cmake
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/CMake/Macros.cmake
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/CMake/OtherTests.cmake
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/CMake/Platforms/WindowsCache.cmake
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/CMake/Utilities.cmake
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/CMake/cmake_uninstall.cmake.in
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/CMake/curl-config.cmake.in
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/CMakeLists.txt
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/curl-config.in
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/curl-src/libcurl.pc.in

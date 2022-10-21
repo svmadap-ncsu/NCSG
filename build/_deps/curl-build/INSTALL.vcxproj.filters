@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Owner\Documents\GitHub\spacex-api-wrapper\build\CMakeFiles\a9945f96b77f3de016317e8257cdfbd2\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{902F78B7-13C4-3157-9754-032A8E5CF063}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

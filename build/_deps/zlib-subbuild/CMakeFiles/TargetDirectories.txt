@@ -1,0 +1,3 @@
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/zlib-subbuild/CMakeFiles/zlib-populate.dir
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/zlib-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/_deps/zlib-subbuild/CMakeFiles/ZERO_CHECK.dir

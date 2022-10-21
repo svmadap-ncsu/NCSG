@@ -1,0 +1,4 @@
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/CMakeFiles/Starlink.dir
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/CMakeFiles/Kuiper.dir
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Owner/Documents/GitHub/spacex-api-wrapper/build/CMakeFiles/ZERO_CHECK.dir
